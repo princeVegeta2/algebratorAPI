@@ -1,0 +1,106 @@
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Ignore Visual Studio specific files
+.vscode/
+.vs/
+.idea/
+
+# Ignore Rider specific files
+.idea/
+*.sln.iml
+
+# Ignore logs, database, and more
+*.log
+*.tlog
+*.pdb
+*.cache
+*.config
+*.csproj.user
+*.dbmdl
+*.jfm
+*.sql
+*.user
+*.sln.docstates
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.log
+
+# Ignore compiled dlls and executable files
+*.dll
+*.exe
+*.so
+*.dylib
+*.o
+*.a
+
+# Ignore directories for local environments
+local.settings.json
+
+# Ignore IDE configs
+.idea
+*.sln.ide
+
+# Ignore Recycle Bin used on Windows
+$RECYCLE.BIN/
+
+# Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ignore macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+._*
+
+# Ignore Linux files
+*~
+
+# Ignore JetBrains Rider project specific files
+.idea/
+*.sln.iml
+
+# Ignore Rider packages
+.idea
+
+# Ignore temporary files
+*.temp
+*.tmp
+*.bak
+*.swp
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Docker files
+**/.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Ignore Python virtual environments
+venv/
+env/
+
+# Ignore other files and folders
+*.mdf
+*.ldf
+*.ndf
+*.ldf
